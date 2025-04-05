@@ -31,10 +31,13 @@ The task was to:
    * Statistical distributions
 
 ## Visualizations
-![Affordability Comparison](visualizations/affordability_comparison.png)
-![Income vs Price](visualizations/income_vs_price.png)
-
-## How to Run
+![Affordability Comparison](state_house_analysis/visualizations/affordability_comparison.png)
+![Correlation Heatmap](state_house_analysis/visualizations/correlation_heatmap.png)
+![Income vs Price](state_house_analysis/visualizations/income_vs_price.png)
+![Top 10 Population](state_house_analysis/visualizations/top_10_population.png)
+![Top 10 Income](state_house_analysis/visualizations/top_10_income.png)
+![Top 10 Price](state_house_analysis/visualizations/top_10_price.png)
+![Distributions](state_house_analysis/visualizations/distributions.png)
 1. Clone this repository
 2. Ensure you have Python and required libraries installed:
 
