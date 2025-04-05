@@ -1,0 +1,10 @@
+key_row,metric,z_score
+california,census_population_zscore,4.428552364581165
+florida,census_population_zscore,2.1974925557235254
+texas,census_population_zscore,3.2741896361538805
+puerto_rico,median_household_income_zscore,-3.5505005592547065
+california,median_sale_price_zscore,3.1422645641825198
+hawaii,median_sale_price_zscore,2.477755580782718
+california,house_affordability_ratio_zscore,2.971070701816523
+hawaii,house_affordability_ratio_zscore,2.0559105287206423
+montana,house_affordability_ratio_zscore,2.0559105287206423
