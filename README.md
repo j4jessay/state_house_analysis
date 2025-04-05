@@ -35,8 +35,6 @@ The task was to:
 ![Correlation Heatmap](state_house_analysis/visualizations/correlation_heatmap.png)
 ![Income vs Price](state_house_analysis/visualizations/income_vs_price.png)
 ![Top 10 Population](state_house_analysis/visualizations/top_10_population.png)
-![Top 10 Income](state_house_analysis/visualizations/top_10_income.png)
-![Top 10 Price](state_house_analysis/visualizations/top_10_price.png)
 ![Distributions](state_house_analysis/visualizations/distributions.png)
 
 ## How to Run
