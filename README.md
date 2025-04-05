@@ -38,6 +38,9 @@ The task was to:
 ![Top 10 Income](state_house_analysis/visualizations/top_10_income.png)
 ![Top 10 Price](state_house_analysis/visualizations/top_10_price.png)
 ![Distributions](state_house_analysis/visualizations/distributions.png)
+
+## How to Run
+
 1. Clone this repository
 2. Ensure you have Python and required libraries installed:
 
